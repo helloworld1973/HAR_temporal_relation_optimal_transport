@@ -1,0 +1,1 @@
+Y. Xiaozhou, W. Kevin I-Kai, 'Cross-user activity recognition via temporal relation optimal transport', in: International Conference on Mobile and Ubiquitous Systems: Computing, Networking, and Services, 2023.
